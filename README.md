@@ -8,5 +8,5 @@
 ### QGSJET
 ## Cosmic ray flux models:
 ### Dembinksi
-### Prevotat
+### Prevotat
 ### Lipari + my extension 
